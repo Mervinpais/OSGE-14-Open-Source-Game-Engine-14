@@ -1,6 +1,10 @@
 # OSGE-14-Open-Source-Game-Engine-14
 The Best game engine made with .Net Framework and winforms (yes, i used winforms, im a madlad B) and is still in development
 
+Credits;
+### Andrej Bartulin
+====================================================
+
 Update Log 16 Jan 2022: Version 1.0.0
 
 THIS WAS A FLIPING BIG UPDATE! this update brings;
