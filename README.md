@@ -1,43 +1,30 @@
 # OSGE-14-Open-Source-Game-Engine-14
 The Best game engine made with .Net Framework and winforms (yes, i used winforms, im a madlad B) and is still in development
 
-Do note that its having a few bugs and fixing.
+Update Log 16 Jan 2022: Version 1.0.0
 
-Update Log 20/12/2021 (20th of December 2021):
+THIS WAS A FLIPING BIG UPDATE! this update brings;
 
-FINNALY A GOOD FLIPING UPDATE, the new update includes;
+-An updater so you can update the game engine! (it will download the newer version and unzip if needed and then ask you to use it instead)
+-
+![image](https://user-images.githubusercontent.com/62794814/149649301-b85bd400-6c58-4af8-bdfc-d8a2c5eb0cf8.png)
 
-  **-IF STATEMENTS**
+-Few bug fixes with the "if" statement
+-
+-Cleaned most of the code
+-
+-Added a sound player and it can be made using "Create.Music(xpos, ypos, xSize, ySize, songLocation, objectName)", and it can be used in game by using "objectName.Play" and stopped using "objectName.Stop"
+-
+-Added Some keyboard shortcuts (thanks to Andrej Bartulin)
+-
+-Fixed the About Page window
+-
+![image](https://user-images.githubusercontent.com/62794814/149649272-5d0a2a3f-560c-4868-9346-d27a85f04f3a.png)
 
-  <!--the boring backstory:
-    one night, i was tired of thinking how to make if statements, but after a few methods, IT WORKED!!!-->
-  A few bugs do exist though, so please tell me them if they do appear.
-
-  THE SYNTAX:
-  
-    if *your code here* then
-
-    *code*
-
-    end
-   
- **-New Ui Changes**
-  the Ui for when you run the project has been made more *modern*.
-  
- **Fixed Wrong/Incorrect error messages**
-  Now normally the Error messages weren't, in proper grammer, and the error message display, for example if the Scripts had an error, the message would say:
-    
-    An Exception Error Occurred in ScreenGui
-    
-  as you see, it was only accounting for the screenGUI which isnt always the case so now it says:
-  
-    An Exception Error Occurred, please see below
-    
-    *Exception error message*
-    
-    Please Check with your code if you have made no mistakes, if not, please contact Mervinpais(check github repo for Mervin's contact by either gmail or any other means)
- its along the lines of this and its good since the "*Exception error message*" part can display what error happened, either its a C# Exception Error OR a coding exception (example if a user made variable doesnt exist)
+-Made the new project window look better (dark mode)
+-
+![image](https://user-images.githubusercontent.com/62794814/149649225-cb9adc96-2f9e-4629-9dc0-27d21c6aebd4.png)
  
- Thats most of the changes made with version 3.1 
+ Thats most of the changes made with version 1.0.0
  
  Thank for reading :)
