@@ -2,7 +2,7 @@
 The Best game engine made with .Net Framework and winforms (yes, i used winforms, im a madlad B) and is still in development
 
 Credits;
-### Andrej Bartulin
+### [Andrej Bartulin](https://github.com/Andrej123456789)
 ====================================================
 
 Update Log 16 Jan 2022: Version 1.0.0
